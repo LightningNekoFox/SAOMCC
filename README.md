@@ -1,0 +1,1 @@
+This is the read me file for my mod ill work on it when i finish the first version of the mod
